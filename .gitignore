@@ -1,0 +1,10 @@
+*.pyc
+*.DS_Store
+*.csv
+*.pdf
+*.txt
+*.meta
+*.index
+sa_models/*
+puddle
+*.json

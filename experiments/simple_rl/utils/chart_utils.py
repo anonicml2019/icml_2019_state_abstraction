@@ -15,6 +15,7 @@ Functions:
     _is_disc_reward()
     parse_args: Parse command line arguments.
     main: Loads data from a given path and creates plot.
+
 '''
 
 # Python imports.
